@@ -1,0 +1,75 @@
+*#*#4636#*#*
+
+https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MmNmNGFmZGEtMGVhMS00OTQzLThmYTgtYTBhZjM2NTJiZDIy%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522189de737-c93a-4f5a-8b68-6f4ca9941912%2522%252c%2522Oid%2522%253a%25221a00bf73-a2f4-4f15-a1d6-6528fb1d8ab6%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=c5d04c61-c52b-4e2c-900f-e58f1724576f&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+
+
+
+
+S.no	Emp ID	Name	Contact Number
+1	2195239	Punit Anand	6239557350		2
+2	2195313	Pemmasani Deepika	7993190020	2    
+3	2195060	Shubham Kishor Aher	8600587891      1
+4	2195229	Anu Suresh	9986342827		2
+5	2195312	Lakshmidhar M	8790086721		1
+6	2195159	Yash Tyagi	9599928851		3
+7	2195202	Sushree Sarita Sahoo	9556590818	1
+8	2195162	Pareekshit G Angadi	8277420329	1
+9	2195108	Harinandan Rajeev	9495641265	2
+10	2195056	Yashwant Naval Patil	7350320620	2
+11	2195068	Prathamesh Avinash Yewale	7020684110	3	
+12	2195423	Shayaz S	9686745687			2
+13	2195226	Lingaraju S	8095085791			1
+14	2195052	Omkar Navanath Chandanshive	7757953042	2	
+15	2195371	Vaishali U	7899814897			3
+16	2195057	Pritesh Sunil Patil	7262918991		2
+17	2195446	Pavan Bani	8296350310			2
+18	2195227	Ramya Vaitla	9113823956			2
+19	2195290	Amisha C	9110299983			3		
+20	2195169	Sharath Bharadwaj K B	9019820937		4
+21	2195425	Rahul Sukla	7978019010			3
+22	2195069	Soham Sanjay Dabadgaonkar	9545177206	2
+23	2195055	Shubham Balasaheb Shelke	9075479611	1
+24	2195348	Shishir Kumar Shrivastava	9752576556	1
+25	2195241	Vishal Milind Zende	9011924130		2
+26	2195050	Chetan Jalindar Gaikwad	7620666311		3
+27	2195238	Abhishek Basavaraj Ajjannavar	8553220345	1
+28	2195369	Chandan S R	9353777289			2
+29	2195213	Sonali Somanna Pujari	9975714220		2
+30	2195166	Sagar Dnyaneshwar Pawar	8007018122		1		
+31	2195049	Prakash Sarjerao Phalke	8329577273		2
+32	2195409	Sharanayya Hiremath	9380085389		3
+33	2195246	Nandibasava B	7411089830			1
+34	2195307	Vijay Dadarao Kamble	8888129409		2
+35	2195181	Griffon Danty	9388959511			A
+36	2195161	Abhishek Kirar	8827078341			3
+37	2195242	Sangram Dilip Deshmukh	8600761157		1
+38	2195236	Sagar Badgujar	7775882258			0
+39	2195314	Bellamkonda Megana	6301132393		2
+40	2195185	Rishu Raj	9525460949			3
+41	2195038	Simarjot Singh	9792280645			2
+42	2195160	Swapnil Gadekar	9765244081			2
+43	2195415	Lavanya V	9944240905			1
+44	2195061	Gyanji Vatsa	9430404926			3			
+45	2195066	Asmita Ananda Kumbhar	7066885697		2
+46	2195086	Sushma Katawe	7090919812			3
+47	2195218	Swapnoneel Das	9874149150			4
+
+
+
+
+
+2197318  Ruchita Prashant Kawle 		4
+
+2197272 Manish Harihar Pandit 			1		
+
+2197255 Kiran Subhash Surywanshi		A
+
+2197264 Rathod Baban Shivaji			0
+
+2197259 Sumant Umeshrao Tiwaskar 		4
+
+2197260 Sayali Nitin Rajurkar			3
+
+2197323 Yaswanth Nandigam			3
+
+
